@@ -2,26 +2,27 @@
 
 ## My Name
 
-Write your name.
+Damodar Sreekanth
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+1.Learned how to solve a problem by logically using Pseudocode.
+2.Learned how to solve a problems by a errors 
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I know a little bit python and i am able to write code in python
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to become a software developer 
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: set of instructions to the hardware or computer
 
-Python is:
+Python is:python is a programming interpreter language. python is easy to learn and simple syntax
 
-In this track, I will learn:
+In this track, I will learn:python
