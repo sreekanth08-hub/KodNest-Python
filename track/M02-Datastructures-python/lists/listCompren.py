@@ -25,3 +25,7 @@ names=["Sreekanth","Rahul","Pavan","Naresh"]
 
 new_list=[i.upper() for i in names]
 print(new_list)
+
+price_list=[120,220,230,240,300,100,80]
+discount_list=[n-(n*20/100) for n in price_list]
+print(discount_list)

@@ -71,3 +71,15 @@ for x in students:
     for y in students[x]:
         print(y,students[x][y])
     
+# dict lookup 
+list_products=[101,102,103,104]
+products={
+    "P101":["Keyboard",1200],
+    "P102":["Mouse",600],
+    "P103":["Monitor",8500]
+}
+print(products["P103"]) #direct lookup : Access value in dict o(1)
+res=products.get("P103","Product Not Found") # safe lookup 
+
+
+
